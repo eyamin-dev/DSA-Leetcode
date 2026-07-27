@@ -1,5 +1,5 @@
 # DSA-Leetcode
-This will contain all the DSA problems I solved in Leetcode.
+This contains all the DSA problems I solved on LeetCode.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
