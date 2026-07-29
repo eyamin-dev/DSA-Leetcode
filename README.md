@@ -8,6 +8,7 @@ This contains all the DSA problems I solved on LeetCode.
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0258-add-digits](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0258-add-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -25,4 +26,8 @@ This contains all the DSA problems I solved on LeetCode.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/eyamin-dev/DSA-Leetcode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
